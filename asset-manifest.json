@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nithishd-max/mresme.git/static/css/main.fcbead0b.chunk.css",
-    "main.js": "/nithishd-max/mresme.git/static/js/main.c00a3c7b.chunk.js",
-    "main.js.map": "/nithishd-max/mresme.git/static/js/main.c00a3c7b.chunk.js.map",
-    "runtime-main.js": "/nithishd-max/mresme.git/static/js/runtime-main.54f9f4c1.js",
-    "runtime-main.js.map": "/nithishd-max/mresme.git/static/js/runtime-main.54f9f4c1.js.map",
-    "static/js/2.52963a32.chunk.js": "/nithishd-max/mresme.git/static/js/2.52963a32.chunk.js",
-    "static/js/2.52963a32.chunk.js.map": "/nithishd-max/mresme.git/static/js/2.52963a32.chunk.js.map",
-    "static/js/3.23395047.chunk.js": "/nithishd-max/mresme.git/static/js/3.23395047.chunk.js",
-    "static/js/3.23395047.chunk.js.map": "/nithishd-max/mresme.git/static/js/3.23395047.chunk.js.map",
-    "index.html": "/nithishd-max/mresme.git/index.html",
-    "static/css/main.fcbead0b.chunk.css.map": "/nithishd-max/mresme.git/static/css/main.fcbead0b.chunk.css.map",
-    "static/js/2.52963a32.chunk.js.LICENSE.txt": "/nithishd-max/mresme.git/static/js/2.52963a32.chunk.js.LICENSE.txt",
-    "static/media/profile.51c7eb84.png": "/nithishd-max/mresme.git/static/media/profile.51c7eb84.png"
+    "main.css": "/mresme/static/css/main.fcbead0b.chunk.css",
+    "main.js": "/mresme/static/js/main.93656bd2.chunk.js",
+    "main.js.map": "/mresme/static/js/main.93656bd2.chunk.js.map",
+    "runtime-main.js": "/mresme/static/js/runtime-main.c0fe669f.js",
+    "runtime-main.js.map": "/mresme/static/js/runtime-main.c0fe669f.js.map",
+    "static/js/2.52963a32.chunk.js": "/mresme/static/js/2.52963a32.chunk.js",
+    "static/js/2.52963a32.chunk.js.map": "/mresme/static/js/2.52963a32.chunk.js.map",
+    "static/js/3.23395047.chunk.js": "/mresme/static/js/3.23395047.chunk.js",
+    "static/js/3.23395047.chunk.js.map": "/mresme/static/js/3.23395047.chunk.js.map",
+    "index.html": "/mresme/index.html",
+    "static/css/main.fcbead0b.chunk.css.map": "/mresme/static/css/main.fcbead0b.chunk.css.map",
+    "static/js/2.52963a32.chunk.js.LICENSE.txt": "/mresme/static/js/2.52963a32.chunk.js.LICENSE.txt",
+    "static/media/profile.51c7eb84.png": "/mresme/static/media/profile.51c7eb84.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.54f9f4c1.js",
+    "static/js/runtime-main.c0fe669f.js",
     "static/js/2.52963a32.chunk.js",
     "static/css/main.fcbead0b.chunk.css",
-    "static/js/main.c00a3c7b.chunk.js"
+    "static/js/main.93656bd2.chunk.js"
   ]
 }
