@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nithishd-max/mresme/static/css/main.fcbead0b.chunk.css",
+    "main.js": "/nithishd-max/mresme/static/js/main.216afc20.chunk.js",
+    "main.js.map": "/nithishd-max/mresme/static/js/main.216afc20.chunk.js.map",
+    "runtime-main.js": "/nithishd-max/mresme/static/js/runtime-main.e88ef953.js",
+    "runtime-main.js.map": "/nithishd-max/mresme/static/js/runtime-main.e88ef953.js.map",
+    "static/js/2.52963a32.chunk.js": "/nithishd-max/mresme/static/js/2.52963a32.chunk.js",
+    "static/js/2.52963a32.chunk.js.map": "/nithishd-max/mresme/static/js/2.52963a32.chunk.js.map",
+    "static/js/3.23395047.chunk.js": "/nithishd-max/mresme/static/js/3.23395047.chunk.js",
+    "static/js/3.23395047.chunk.js.map": "/nithishd-max/mresme/static/js/3.23395047.chunk.js.map",
+    "index.html": "/nithishd-max/mresme/index.html",
+    "static/css/main.fcbead0b.chunk.css.map": "/nithishd-max/mresme/static/css/main.fcbead0b.chunk.css.map",
+    "static/js/2.52963a32.chunk.js.LICENSE.txt": "/nithishd-max/mresme/static/js/2.52963a32.chunk.js.LICENSE.txt",
+    "static/media/profile.51c7eb84.png": "/nithishd-max/mresme/static/media/profile.51c7eb84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88ef953.js",
+    "static/js/2.52963a32.chunk.js",
+    "static/css/main.fcbead0b.chunk.css",
+    "static/js/main.216afc20.chunk.js"
+  ]
+}
