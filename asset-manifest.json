@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nithishd-max/mresme.git/static/css/main.fcbead0b.chunk.css",
-    "main.js": "/nithishd-max/mresme.git/static/js/main.216afc20.chunk.js",
-    "main.js.map": "/nithishd-max/mresme.git/static/js/main.216afc20.chunk.js.map",
+    "main.js": "/nithishd-max/mresme.git/static/js/main.c00a3c7b.chunk.js",
+    "main.js.map": "/nithishd-max/mresme.git/static/js/main.c00a3c7b.chunk.js.map",
     "runtime-main.js": "/nithishd-max/mresme.git/static/js/runtime-main.54f9f4c1.js",
     "runtime-main.js.map": "/nithishd-max/mresme.git/static/js/runtime-main.54f9f4c1.js.map",
     "static/js/2.52963a32.chunk.js": "/nithishd-max/mresme.git/static/js/2.52963a32.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.54f9f4c1.js",
     "static/js/2.52963a32.chunk.js",
     "static/css/main.fcbead0b.chunk.css",
-    "static/js/main.216afc20.chunk.js"
+    "static/js/main.c00a3c7b.chunk.js"
   ]
 }
