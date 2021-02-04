@@ -1,6 +1,6 @@
 {
   "homepage": "https://nithishd-max.github.io/blogs",
-  "name": "mresume",
+  "name": "blogs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
